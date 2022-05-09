@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jivrome</title>
+    <link rel="icon" type="image/x-icon" href="./assets/image/LOGO.png">
+    <!-- font awesome file link  -->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+        integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/projact.css">
+    <link rel="stylesheet" href="./assets/css/test.css">
+    <link rel="stylesheet" href="./assets/css/pr.css">
+ 
+
+    <!-- <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"> -->
+    <!-- aos animation css -->
+    
+</head>
+
+<body>
+    <!-- header section starts  -->
+    <header class="header">
+
+        <!-- <a href="#" class="logo"><i class="fas fa-magic"></i>design.</a> -->
+        <a href="#"><img class="logo1" src="./assets/image/LOGO JIVROM.png" alt="image"></a>
+
+
+        <div class="fas fa-bars"></div>
+
+
+        <nav class="navbar">
+            <ul>
+                <li><a href="./index.html">home</a></li>
+                <li><a href="./about.html">about</a></li>
+                <li><a href="./services.html">services</a></li>
+                <li><a href="./Project.html">project</a></li>
+                <li><a href="./career.html">career</a></li>
+                <li><a href="./contact.html">contact</a></li>
+
+            </ul>
+        </nav>
+
+
+    </header>
+    <!-- header section starts End  -->
+
+
+    <section id="service" class="service" style="margin-bottom: 78px;">
+
+        <h1 class="heading">"Have A Look Our Work Showcase"</h1>
+        <section>
+            <h2 class="pr-text"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, sequi quidem facilis enim
+                pariatur facere
+                est harum qui amet placeat aspernatur delectus necessitatibus neque cupiditate deleniti consectetur
+                dolorem quae explicabo.</h2>
+        </section>
+
+    </section>
+
+    
+
+
+
+    <div class="main">
+
+        <ul class="cards">
+
+            <li class="cards_item">
+                <a href="https://play.google.com/store/apps/details?id=com.iia.app">
+                    <div class="card">
+                        <div class="card_image"><img src="./assets/image/projact/cl1.jpeg"></div>
+                        <div class="card_content">
+                            <h2 class="card_title">IIA </h2>
+                            <p class="card_text">This App is meant for all the members of IIA Karnataka chapter. The
+                                member directory helps you find all the members and get connected with them.</p>
+                            <a href="https://play.google.com/store/apps/details?id=com.iia.app" class="prdetails">View
+                                Project Details</a>
+                            <!-- <button class="btn card_btn">Read More</button> -->
+                        </div>
+                    </div>
+                </a>
+
+            </li>
+            <li class="cards_item">
+                <a href="https://play.google.com/store/apps/details?id=com.jivrom.sunilasalchemy">
+                    <div class="card">
+                        <div class="card_image"><img src="./assets/image/projact/cl2.jpeg"></div>
+                        <div class="card_content">
+                            <h2 class="card_title">Sunila's Alchemy</h2>
+                            <p class="card_text">A tuition app that provides classes to students in subjects - Science
+                                and Chemistry</p>
+                            <a href="https://play.google.com/store/apps/details?id=com.jivrom.sunilasalchemy"
+                                class="prdetails">View Project Details</a>
+                            <!-- <button class="btn card_btn">Read More</button> -->
+                        </div>
+                    </div>
+                </a>
+
+            </li>
+            <li class="cards_item">
+                <a href="https://play.google.com/store/apps/details?id=com.app.speakeazy">
+                    <div class="card">
+                        <div class="card_image"><img src="./assets/image/projact/cl3.jpeg"></div>
+                        <div class="card_content">
+                            <h2 class="card_title">Speakeazy</h2>
+                            <p class="card_text">The place where it is easy to speak to the people you like.
+                                It’s the quality of your friendships that matter, not the quantity.</p>
+                            <a href="https://play.google.com/store/apps/details?id=com.app.speakeazy"
+                                class="prdetails">View Project Details</a>
+                            <!-- <button class="btn card_btn">Read More</button> -->
+                        </div>
+                    </div>
+                </a>
+
+            </li>
+            <!-- <li class="cards_item">
+                <div class="card">
+                    <div class="card_image"><img src="https://picsum.photos/500/300/?image=14"></div>
+                    <div class="card_content">
+                        <h2 class="card_title">Card Grid Layout</h2>
+                        <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout</p>
+                        <button class="btn card_btn">Read More</button>
+                    </div>
+                </div>
+            </li> -->
+            <!-- <li class="cards_item">
+                <div class="card">
+                    <div class="card_image"><img src="https://picsum.photos/500/300/?image=17"></div>
+                    <div class="card_content">
+                        <h2 class="card_title">Card Grid Layout</h2>
+                        <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout</p>
+                        <button class="btn card_btn">Read More</button>
+                    </div>
+                </div>
+            </li> -->
+            <!-- <li class="cards_item">
+                <div class="card">
+                    <div class="card_image"><img src="https://picsum.photos/500/300/?image=2"></div>
+                    <div class="card_content">
+                        <h2 class="card_title">Card Grid Layout</h2>
+                        <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout</p>
+                        <button class="btn card_btn">Read More</button>
+                    </div>
+                </div>
+            </li> -->
+        </ul>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- features section starts  -->
+
+    <section class="features" id="features">
+
+
+
+        <div data-aos="fade-left" class="box-container">
+
+            <div class="box">
+                <i class="fas fa-magic"></i>
+                <h3>smooth design</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque enim ad neque. Voluptatem alias beatae
+                    accusamus laudantium nisi assumenda libero.</p>
+            </div>
+            <div class="box">
+                <i class="fas fa-shield-alt"></i>
+                <h3>privacy protect</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque enim ad neque. Voluptatem alias beatae
+                    accusamus laudantium nisi assumenda libero.</p>
+            </div>
+            <div class="box">
+                <i class="fas fa-globe"></i>
+                <h3>multiple language</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque enim ad neque. Voluptatem alias beatae
+                    accusamus laudantium nisi assumenda libero.</p>
+            </div>
+            <div class="box">
+                <i class="fas fa-map-marker-alt"></i>
+                <h3>location tracking</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque enim ad neque. Voluptatem alias beatae
+                    accusamus laudantium nisi assumenda libero.</p>
+            </div>
+            <div class="box">
+                <i class="fas fa-cogs"></i>
+                <h3>powerfull settings</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque enim ad neque. Voluptatem alias beatae
+                    accusamus laudantium nisi assumenda libero.</p>
+            </div>
+            <div class="box">
+                <i class="fas fa-headset"></i>
+                <h3>24 x 7 service</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque enim ad neque. Voluptatem alias beatae
+                    accusamus laudantium nisi assumenda libero.</p>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- features section ends -->
+    <a
+        href="https://api.whatsapp.com/send/?phone=%2B917356619429&text=I%27m+curious+to+the+know++about+JIVROM+and+its+services&app_absent=0">
+        <img style="width: 60px; height: 60px;" class="back-to-top fa-shake" data-aos="fade-left"
+            src="./assets/image/whatsaap.png" alt="image"></a>
+    <!-- footer section starts  -->
+
+    <section class="footer">
+
+        <h1>© JIVROM Technologies Pvt Ltd. All Rights Reserved</h1>
+
+        <div class="icons">
+            <a href="#" class="fab fa-facebook-f fa-flip" style="--fa-animation-duration: 3s;"></a>
+            <a href="#" class="fab fa-twitter fa-flip " style="--fa-animation-duration: 3s;"></a>
+            <a href="" class="fab fa-instagram fa-flip" style="--fa-animation-duration: 3s;"></a>
+            <a href="https://www.linkedin.com/company/jivrom-technologies/" class="fab fa-linkedin fa-flip"
+                style="font-size:19px; color: #fff; --fa-animation-duration: 3s;"></a>
+            <a href="mailto:info@jivrom.com" class="fa-solid fa-envelope fa-bounce"
+                style="font-size:19px; color: #fff;"></a>
+            <a href="tel:+917356619429" class="	fa fa-phone  fa-shake" style="font-size:19px; color: #fff;   "></a>
+
+        </div>
+
+    </section>
+
+
+    <!-- footer section ends -->
+
+
+    <!-- jquery file link  -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Aos animation js -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+    <script type="text/javascript">
+        $(`[data-aos]`).parent().addClass('remove-overflow')
+    </script>
+
+    <!-- custom js file link  -->
+
+    <script src="./assets/js/app.js"></script>
+
+
+  
+
+
+
+</body>
+
+</html>
